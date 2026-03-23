@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.4">
+  <diagram name="Trang-1" id="2zCDyPhzbBqYKhDRaQJy">
+    <mxGraphModel dx="786" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zb-NUNn46FWr6yVp6Rn4-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Student" vertex="1">
+          <mxGeometry height="240" width="180" x="300" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zb-NUNn46FWr6yVp6Rn4-2" parent="Zb-NUNn46FWr6yVp6Rn4-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- String id&lt;div&gt;- String fullName&lt;/div&gt;&lt;div&gt;- int age&lt;/div&gt;&lt;div&gt;- double gpa&lt;/div&gt;&lt;div&gt;- static int count&lt;/div&gt;&lt;div&gt;- final double MIN_GPA = 0.0&lt;/div&gt;&lt;div&gt;- final double MAX_GPA = 4.0&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="124" width="180" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Zb-NUNn46FWr6yVp6Rn4-3" parent="Zb-NUNn46FWr6yVp6Rn4-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="180" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Zb-NUNn46FWr6yVp6Rn4-4" parent="Zb-NUNn46FWr6yVp6Rn4-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ Student()&lt;div&gt;+ Student(String id, String fullName , int age, double gpa)&lt;/div&gt;&lt;div&gt;+ void printInfo()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82" width="180" y="158" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
